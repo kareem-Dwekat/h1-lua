@@ -1,7 +1,7 @@
 local MenuState = {}
 
 function MenuState:update(dt)
-    -- لا شيء مؤقتاً
+
 end
 
 function MenuState:draw()
